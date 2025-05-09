@@ -17,4 +17,4 @@ Mein Ziel für das laufende Modul 426 ist eine 5.5 und die bei den anderen zwei 
 ## 9.05
 
 - Heute ist der erste Arbeitsblock reserviert für den Arbeitsmarkt den der Lehrer vorbereitet hat, hier konnten wir nochmals ein wenig mehr über die einzelnen Jobs im ICT erfahren.
-- 
+- n8n Download un erstes Projekt versuchen
