@@ -9,3 +9,12 @@ Mein Ziel für das laufende Modul 426 ist eine 5.5 und die bei den anderen zwei 
 - Heute möchte ich ein wenig ein recap machen über das abgeschlossene Modul vom Machine learning, weil mir das Modul überraschend gefallen hat.
 - Dannach möchte ich noch ein wenig eine Zusammenfassung über das Modul 426 erstellen, da die LB nächste Woche beginnt.
 - Mit Linhard möchte ich mich auch ein wenig absprechen und über das Modul 426 gehen und schauen wo unsere beiden Stärken liegen um die LB erfolgreich zu erledigen.
+
+## 2.05
+
+- Heute war das Program für die Praktikumstellen und Informatik Jobs, ausserhalb dem habe ich nicht viel gemacht und den gesamten Tag mich mit Stellen und Schulen beschäftigt
+
+## 9.05
+
+- Heute ist der erste Arbeitsblock reserviert für den Arbeitsmarkt den der Lehrer vorbereitet hat, hier konnten wir nochmals ein wenig mehr über die einzelnen Jobs im ICT erfahren.
+- 
