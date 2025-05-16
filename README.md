@@ -21,6 +21,6 @@ Mein Ziel für das laufende Modul 426 ist eine 5.5 und die bei den anderen zwei 
 
 ## 16.05
 
--Heute möchte ich weiterhin am gestarten n8n projekt arbeiten, ich versuche einen chatbot in Whatsapp zu erstellen.
--Dann möchte ich versuchen einen solchen Chatbot in einer Gruppe einfügen um ihn in der Gruppe fragen stellen zu können.
--Modul 254 PDF's die Kapitel weiter durchlesen und Notizen schreiben.
+- Heute möchte ich weiterhin am gestarten n8n projekt arbeiten, ich versuche einen chatbot in Whatsapp zu erstellen.
+- Dann möchte ich versuchen einen solchen Chatbot in einer Gruppe einfügen um ihn in der Gruppe fragen stellen zu können.
+- Modul 254 PDF's die Kapitel weiter durchlesen und Notizen schreiben.
