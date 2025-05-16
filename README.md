@@ -17,4 +17,10 @@ Mein Ziel für das laufende Modul 426 ist eine 5.5 und die bei den anderen zwei 
 ## 9.05
 
 - Heute ist der erste Arbeitsblock reserviert für den Arbeitsmarkt den der Lehrer vorbereitet hat, hier konnten wir nochmals ein wenig mehr über die einzelnen Jobs im ICT erfahren.
-- n8n Download un erstes Projekt versuchen
+- n8n Download um erstes Projekt versuchen
+
+## 16.05
+
+-Heute möchte ich weiterhin am gestarten n8n projekt arbeiten, ich versuche einen chatbot in Whatsapp zu erstellen.
+-Dann möchte ich versuchen einen solchen Chatbot in einer Gruppe einfügen um ihn in der Gruppe fragen stellen zu können.
+-Modul 254 PDF's die Kapitel weiter durchlesen und Notizen schreiben.
